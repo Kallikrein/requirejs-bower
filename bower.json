@@ -7,12 +7,12 @@
   ],
   "description": "A file and module loader for JavaScript",
   "main": "require.js",
+  "ignore": [],
   "keywords": [
     "AMD"
   ],
   "license": [
     "BSD-3-Clause",
     "MIT"
-  ],
-  "ignore": []
+  ]
 }
